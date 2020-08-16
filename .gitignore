@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
 # Distribution / packaging
 .Python
 build/
